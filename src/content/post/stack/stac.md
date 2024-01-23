@@ -7,7 +7,6 @@ tags: ["test"]
 coverImage:
   src: "./cover.png"
   alt: "Astro build cover"
-draft: true
 
 ---
 
